@@ -5,9 +5,9 @@ This project delves into the Stack Overflow Developer Survey 2023, conducted bet
 
 The goal of this project is to explore the dataset and create visualizations and find insights that will answer the following guiding questions.
 
-Are you more likely to get a job as a developer if you have a Master's degree?
-What are the job roles that pay the most for developers?
-How does coding experience affect the level of pay?
+Are you more likely to get a job as a developer if you have a Master's degree?</br>
+What are the job roles that pay the most for developers?</br>
+How does coding experience affect the level of pay?</br>
 What's the most popular method of learning to code?
 
 ## Conclusion 
