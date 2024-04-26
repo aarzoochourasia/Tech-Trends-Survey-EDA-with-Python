@@ -1,5 +1,15 @@
 # Tech-Trends-Survey-EDA-with-Python
 
+## Project Overview
+This project delves into the Stack Overflow Developer Survey 2023, conducted between May 8th and 19th.  Qualified respondents completed the survey in a median time of 17 minutes.  Stack Overflow primarily recruited participants through owned channels such as onsite messaging, blog posts, email lists, and social media.
+
+The goal of this project is to explore the dataset and create visualizations and find insights that will answer the following guiding questions.
+
+Are you more likely to get a job as a developer if you have a Master's degree?
+What are the job roles that pay the most for developers?
+How does coding experience affect the level of pay?
+What's the most popular method of learning to code?
+
 ## Conclusion 
 ### Demographics:
 
@@ -23,3 +33,8 @@ Learning Preferences: Python was the most desired language for future learning.
 
 Working Hours: The average workweek for programmers was around 41 hours, with North America having the highest reported hours.</br>
 Age of Entry: Most respondents began programming before 40, indicating that anyone can learn to code at any age.
+
+### Next Steps
+Building on this analysis, a future project could explore constructing a logistic regression model. This model would aim to predict the likelihood of a respondent being a professional developer based solely on their highest level of formal education.
+
+If the model performs well, we can delve deeper by analyzing its coefficients. These coefficients will reveal the relative impact of each education level on the odds of being a professional developer. This insight could be valuable for aspiring programmers weighing the role of formal education in their career path.
