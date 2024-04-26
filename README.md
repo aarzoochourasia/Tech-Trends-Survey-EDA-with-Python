@@ -3,7 +3,7 @@
 ## Project Overview
 This project delves into the Stack Overflow Developer Survey 2023, conducted between May 8th and 19th.  Qualified respondents completed the survey in a median time of 17 minutes.  Stack Overflow primarily recruited participants through owned channels such as onsite messaging, blog posts, email lists, and social media.
 
-The goal of this project is to explore the dataset and create visualizations and find insights that will answer the following guiding questions.
+The goal of this project is to explore the dataset and create visualizations to find insights that will answer the following guiding questions.
 
 Are you more likely to get a job as a developer if you have a Master's degree?</br>
 What are the job roles that pay the most for developers?</br>
