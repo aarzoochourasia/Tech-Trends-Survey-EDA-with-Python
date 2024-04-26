@@ -10,6 +10,18 @@ What are the job roles that pay the most for developers?</br>
 How does coding experience affect the level of pay?</br>
 What's the most popular method of learning to code?
 
+## Business Goals
+The survey serves as a valuable resource for developers of all levels, providing insights into:
+
+Evolving Developer Landscape: Stay informed about the latest trends and changes impacting developer workflows.</br>
+Shifting Technology Landscape: Identify which technologies are gaining traction or falling out of favor.</br>
+The Future of Tech: Gain a glimpse into potential future directions for the tech industry.</br>
+
+## Data Exploration & Quality:
+The dataset employs a well-structured format, with each row representing a respondent and each column representing their answers to specific survey questions.  A copy of the survey instrument is included within the project repository for reference.
+
+During exploratory data analysis, some data points were identified as missing or ambiguous.  To ensure data integrity, rows containing such values were removed based on carefully defined project requirements.  The specifics of this data cleaning process are documented within the project's Python notebook for transparency.
+
 ## Conclusion 
 ### Demographics:
 
