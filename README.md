@@ -9,17 +9,17 @@ Gender: The data reveals a significant gender gap, with only 8% of respondents i
 
 ### Education and Employment:
 
-Formal Education: While a bachelor's or master's degree is held by roughly 50% of respondents, a notable 40% with college degrees have non-computer science backgrounds. This indicates that formal computer science education, while valuable, is not the sole path to a programming career.
+Formal Education: While a bachelor's or master's degree is held by roughly 50% of respondents, a notable 40% with college degrees have non-computer science backgrounds. This indicates that formal computer science education, while valuable, is not the sole path to a programming career.</br>
 Employment Status: Full-time employment is the most common (over 70%), followed by self-employed/freelance work (around 10%).
 
 ### Programming Languages and Trends:
 
-Popularity: JavaScript & HTML/CSS were the most popular languages in 2020, followed by SQL and Python.
-Language by Role: Students favored HTML/CSS, while professionals preferred JavaScript. Python dominated among data scientists, followed by SQL.
-Loved vs. Dreaded: Rust and TypeScript were the most well-liked languages in 2020, with VBA and Objective-C being the least preferred.
+Popularity: JavaScript & HTML/CSS were the most popular languages in 2020, followed by SQL and Python.</br>
+Language by Role: Students favored HTML/CSS, while professionals preferred JavaScript. Python dominated among data scientists, followed by SQL.</br>
+Loved vs. Dreaded: Rust and TypeScript were the most well-liked languages in 2020, with VBA and Objective-C being the least preferred.</br>
 Learning Preferences: Python was the most desired language for future learning.
 
 ### Work Culture and Habits:
 
-Working Hours: The average workweek for programmers was around 41 hours, with North America having the highest reported hours.
+Working Hours: The average workweek for programmers was around 41 hours, with North America having the highest reported hours.</br>
 Age of Entry: Most respondents began programming before 40, indicating that anyone can learn to code at any age.
