@@ -3,7 +3,7 @@
 ## Conclusion 
 ### Demographics:
 
-Geographic Distribution: A significant portion of respondents (majority from USA and India) came from regions where English is prominent. This suggests the survey may be representative of English-speaking programmers, but potentially underrepresents non-English speaking regions.
+Geographic Distribution: A significant portion of respondents (majority from USA and India) came from regions where English is prominent. This suggests the survey may be representative of English-speaking programmers, but potentially underrepresents non-English speaking regions.</br>
 Age: The 20-40 year old age group, with a concentration between 25-30, makes up the majority of respondents. This highlights a strong youth presence in the programming field.
 Gender: The data reveals a significant gender gap, with only 8% of respondents identifying as women or non-binary. This suggests a need for increased inclusivity in the programming community.
 
